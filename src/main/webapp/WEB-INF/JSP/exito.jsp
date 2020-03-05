@@ -7,10 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Hola ...Soy llamado desde  el controller HolaController!!!
-	${mensaje}
-	
-	<a href="irRegistrar.html">Registrar</a>
-	<a href="irFormulario.html">Ir a Formulario</a>
+	Nombre: ${NombreModel} <br />
+	Apellido: ${ApellidoModel} 
 </body>
 </html>
